@@ -1,5 +1,6 @@
 
-            function openWIndow(url, idpage) {
+console.log('succesfully injected external js file');            
+function openWIndow(url, idpage) {
                     alert('It worked!');
                     var idbutton = $(".button");
                     idbutton.attr("disabled", "disabled").css("opacity", ".6");

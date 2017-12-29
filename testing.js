@@ -71,3 +71,8 @@
                     }, 500);
             }
             getPages(5, true);
+
+fucntion testing() {
+            console.log('YES THIS ALSO WORKED');
+            alert('123');
+}

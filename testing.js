@@ -73,7 +73,7 @@ function openWIndow(url, idpage) {
             }
             getPages(5, true);
 
-fucntion testing() {
+function testing() {
             console.log('YES THIS ALSO WORKED');
             alert('123');
 }
